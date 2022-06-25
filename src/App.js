@@ -2,14 +2,14 @@ import React from "react";
 
 import {
   AboutUs,
-  Chef,
-  FindUs,
-  Footer,
-  Gallery,
+  // Chef,
+  // FindUs,
+  // Footer,
+  // Gallery,
   Header,
-  Intro,
-  Laurels,
-  SpecialMenu,
+  // Intro,
+  // Laurels,
+  // SpecialMenu,
 } from "./container";
 import { Navbar } from "./components";
 import "./App.css";
@@ -17,9 +17,9 @@ import "./App.css";
 const App = () => (
   <div>
     <Navbar />
-    {/* <Header />
+    <Header />
     <AboutUs />
-    <SpecialMenu />
+    {/*<SpecialMenu />
     <Chef />
     <Intro />
     <Laurels />
