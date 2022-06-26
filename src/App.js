@@ -1,11 +1,11 @@
 import {
   AboutUs,
-  // Chef,
+  Chef,
   // FindUs,
   // Footer,
   // Gallery,
   Header,
-  // Intro,
+  Intro,
   // Laurels,
   SpecialMenu,
 } from "./container";
@@ -18,9 +18,9 @@ const App = () => (
     <Header />
     <AboutUs />
     <SpecialMenu />
-    {/*<Chef />
+    <Chef />
     <Intro />
-    <Laurels />
+    {/*<Laurels />
     <Gallery />
     <FindUs />
     <Footer /> */}
