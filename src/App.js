@@ -3,10 +3,10 @@ import {
   Chef,
   // FindUs,
   // Footer,
-  // Gallery,
+  Gallery,
   Header,
   Intro,
-  // Laurels,
+  Laurels,
   SpecialMenu,
 } from "./container";
 import { Navbar } from "./components";
@@ -20,9 +20,9 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Intro />
-    {/*<Laurels />
+    <Laurels />
     <Gallery />
-    <FindUs />
+    {/*<FindUs />
     <Footer /> */}
   </div>
 );
