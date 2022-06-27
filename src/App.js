@@ -1,8 +1,8 @@
 import {
   AboutUs,
   Chef,
-  // FindUs,
-  // Footer,
+  FindUs,
+  Footer,
   Gallery,
   Header,
   Intro,
@@ -22,8 +22,8 @@ const App = () => (
     <Intro />
     <Laurels />
     <Gallery />
-    {/*<FindUs />
-    <Footer /> */}
+    <FindUs />
+    <Footer />
   </div>
 );
 
